@@ -1,0 +1,301 @@
+Return_ID,Region,State,City,Category,Product_Type,Brand,Payment_Method,Return_Reason,Quantity,Return_Value,Return_Date
+R1001,East,West Bengal,Kolkata,Books,Literature,BrandB,Prepaid,Late Delivery,1,744.88,2025-07-17
+R1002,West,Maharashtra,Mumbai,Clothing,Apparel,BrandC,Prepaid,Defective,2,6068.59,2025-07-23
+R1003,South,Tamil Nadu,Coimbatore,Footwear,Shoes,BrandA,COD,Size Issue,3,5137.69,2025-07-27
+R1004,North,Uttar Pradesh,Lucknow,Footwear,Shoes,BrandD,Prepaid,Size Issue,3,5667.91,2025-07-22
+R1005,East,Assam,Guwahati,Clothing,Apparel,BrandD,COD,Defective,3,3659.23,2025-07-31
+R1006,West,Rajasthan,Udaipur,Footwear,Shoes,BrandC,COD,Other,2,6605.02,2025-07-07
+R1007,North,Uttar Pradesh,Lucknow,Home & Kitchen,Utensil,BrandC,Prepaid,Late Delivery,3,3443.45,2025-07-12
+R1008,North,Punjab,Ludhiana,Home & Kitchen,Utensil,BrandC,Prepaid,Late Delivery,3,938.88,2025-07-22
+R1009,West,Gujarat,Surat,Electronics,Gadget,BrandA,COD,Late Delivery,3,2626.21,2025-07-11
+R1010,West,Maharashtra,Nagpur,Books,Literature,BrandC,Prepaid,Other,1,1053.63,2025-07-29
+R1011,North,Uttar Pradesh,Kanpur,Electronics,Gadget,BrandA,COD,Late Delivery,1,5791.25,2025-07-07
+R1012,East,West Bengal,Howrah,Books,Literature,BrandC,Prepaid,Changed Mind,3,4349.49,2025-07-20
+R1013,West,Maharashtra,Pune,Footwear,Shoes,BrandA,Prepaid,Size Issue,2,1172.99,2025-07-07
+R1014,South,Karnataka,Mysore,Clothing,Apparel,BrandB,Prepaid,Wrong Item,1,5642.89,2025-07-21
+R1015,North,Punjab,Ludhiana,Electronics,Gadget,BrandB,Prepaid,Changed Mind,2,5970.49,2025-07-15
+R1016,East,Assam,Guwahati,Clothing,Apparel,BrandA,COD,Defective,2,1674.7,2025-07-23
+R1017,North,Delhi,New Delhi,Home & Kitchen,Utensil,BrandB,COD,Changed Mind,3,3226.33,2025-07-12
+R1018,North,Punjab,Amritsar,Electronics,Gadget,BrandD,Prepaid,Other,2,6885.66,2025-07-18
+R1019,East,Assam,Guwahati,Books,Literature,BrandD,COD,Size Issue,2,3068.54,2025-07-28
+R1020,East,West Bengal,Kolkata,Electronics,Gadget,BrandA,Prepaid,Late Delivery,3,3922.62,2025-07-19
+R1021,South,Tamil Nadu,Coimbatore,Footwear,Shoes,BrandA,Prepaid,Wrong Item,1,7038.16,2025-07-01
+R1022,North,Delhi,New Delhi,Footwear,Shoes,BrandB,COD,Other,1,4423.81,2025-07-28
+R1023,East,West Bengal,Howrah,Clothing,Apparel,BrandC,COD,Size Issue,1,1639.09,2025-07-03
+R1024,North,Delhi,New Delhi,Home & Kitchen,Utensil,BrandA,Prepaid,Defective,2,6131.85,2025-07-31
+R1025,West,Gujarat,Ahmedabad,Electronics,Gadget,BrandD,COD,Defective,1,3219.99,2025-07-23
+R1026,North,Punjab,Amritsar,Electronics,Gadget,BrandC,COD,Other,2,2033.95,2025-07-30
+R1027,North,Delhi,New Delhi,Home & Kitchen,Utensil,BrandB,COD,Changed Mind,2,6532.14,2025-07-17
+R1028,North,Uttar Pradesh,Kanpur,Clothing,Apparel,BrandC,Prepaid,Wrong Item,1,3738.27,2025-07-21
+R1029,South,Karnataka,Mysore,Electronics,Gadget,BrandC,COD,Wrong Item,1,5359.31,2025-07-07
+R1030,West,Rajasthan,Jaipur,Books,Literature,BrandA,COD,Other,1,7954.22,2025-07-20
+R1031,West,Gujarat,Ahmedabad,Books,Literature,BrandD,Prepaid,Defective,2,5760.36,2025-07-11
+R1032,East,West Bengal,Howrah,Electronics,Gadget,BrandD,Prepaid,Changed Mind,1,6041.62,2025-07-26
+R1033,South,Tamil Nadu,Chennai,Electronics,Gadget,BrandC,Prepaid,Changed Mind,1,577.57,2025-07-27
+R1034,West,Gujarat,Surat,Books,Literature,BrandA,COD,Late Delivery,2,5141.56,2025-07-20
+R1035,South,Kerala,Thiruvananthapuram,Electronics,Gadget,BrandA,COD,Size Issue,3,5632.31,2025-07-09
+R1036,East,Assam,Guwahati,Home & Kitchen,Utensil,BrandD,Prepaid,Defective,1,1771.56,2025-07-23
+R1037,East,Assam,Guwahati,Books,Literature,BrandD,Prepaid,Late Delivery,2,6503.18,2025-07-11
+R1038,North,Punjab,Amritsar,Clothing,Apparel,BrandA,Prepaid,Late Delivery,1,549.81,2025-07-09
+R1039,West,Gujarat,Surat,Clothing,Apparel,BrandA,Prepaid,Late Delivery,2,3074.76,2025-07-01
+R1040,North,Uttar Pradesh,Kanpur,Footwear,Shoes,BrandD,COD,Size Issue,3,5888.2,2025-07-09
+R1041,South,Kerala,Kochi,Electronics,Gadget,BrandC,Prepaid,Wrong Item,1,6764.25,2025-07-17
+R1042,North,Uttar Pradesh,Lucknow,Clothing,Apparel,BrandB,Prepaid,Defective,2,7214.86,2025-07-04
+R1043,West,Maharashtra,Mumbai,Electronics,Gadget,BrandD,COD,Other,3,1492.63,2025-07-06
+R1044,East,Assam,Guwahati,Electronics,Gadget,BrandC,Prepaid,Wrong Item,1,5792.19,2025-07-14
+R1045,East,Assam,Guwahati,Footwear,Shoes,BrandD,Prepaid,Size Issue,3,2996.92,2025-07-25
+R1046,North,Delhi,New Delhi,Footwear,Shoes,BrandB,COD,Changed Mind,2,5240.29,2025-07-04
+R1047,West,Rajasthan,Jaipur,Footwear,Shoes,BrandB,Prepaid,Late Delivery,2,6335.59,2025-07-08
+R1048,East,Odisha,Bhubaneswar,Footwear,Shoes,BrandD,COD,Defective,1,6066.93,2025-07-05
+R1049,North,Punjab,Amritsar,Clothing,Apparel,BrandD,COD,Defective,3,1949.35,2025-07-15
+R1050,East,Assam,Guwahati,Electronics,Gadget,BrandB,COD,Defective,1,2482.47,2025-07-23
+R1051,West,Rajasthan,Udaipur,Home & Kitchen,Utensil,BrandD,Prepaid,Defective,3,1664.43,2025-07-13
+R1052,South,Tamil Nadu,Coimbatore,Books,Literature,BrandB,COD,Wrong Item,1,7257.11,2025-07-26
+R1053,East,Odisha,Bhubaneswar,Footwear,Shoes,BrandD,COD,Other,1,4241.36,2025-07-05
+R1054,North,Uttar Pradesh,Kanpur,Home & Kitchen,Utensil,BrandC,COD,Other,2,5160.05,2025-07-12
+R1055,East,Odisha,Bhubaneswar,Books,Literature,BrandC,Prepaid,Changed Mind,3,1898.7,2025-07-13
+R1056,East,Assam,Guwahati,Home & Kitchen,Utensil,BrandC,Prepaid,Late Delivery,1,7474.41,2025-07-27
+R1057,North,Delhi,New Delhi,Electronics,Gadget,BrandC,Prepaid,Size Issue,1,6695.43,2025-07-29
+R1058,West,Gujarat,Surat,Books,Literature,BrandD,Prepaid,Other,2,7062.85,2025-07-12
+R1059,North,Uttar Pradesh,Kanpur,Footwear,Shoes,BrandA,COD,Wrong Item,3,7952.2,2025-07-24
+R1060,South,Tamil Nadu,Chennai,Clothing,Apparel,BrandB,Prepaid,Size Issue,3,7017.81,2025-07-22
+R1061,West,Maharashtra,Pune,Footwear,Shoes,BrandD,COD,Defective,2,1556.07,2025-07-21
+R1062,North,Punjab,Ludhiana,Clothing,Apparel,BrandD,Prepaid,Size Issue,3,607.45,2025-07-23
+R1063,North,Uttar Pradesh,Kanpur,Footwear,Shoes,BrandA,COD,Defective,1,3487.31,2025-07-08
+R1064,West,Rajasthan,Udaipur,Electronics,Gadget,BrandB,COD,Late Delivery,1,7685.89,2025-07-06
+R1065,East,West Bengal,Kolkata,Home & Kitchen,Utensil,BrandB,Prepaid,Changed Mind,2,2027.66,2025-07-01
+R1066,West,Gujarat,Ahmedabad,Home & Kitchen,Utensil,BrandC,COD,Changed Mind,2,3888.92,2025-07-21
+R1067,South,Karnataka,Bangalore,Electronics,Gadget,BrandC,Prepaid,Defective,3,1926.3,2025-07-25
+R1068,West,Maharashtra,Pune,Books,Literature,BrandB,COD,Late Delivery,2,5480.32,2025-07-21
+R1069,East,Assam,Guwahati,Books,Literature,BrandC,Prepaid,Changed Mind,3,7156.91,2025-07-24
+R1070,East,Assam,Guwahati,Books,Literature,BrandA,Prepaid,Late Delivery,2,5524.74,2025-07-08
+R1071,North,Punjab,Ludhiana,Electronics,Gadget,BrandB,COD,Wrong Item,1,3631.33,2025-07-21
+R1072,South,Kerala,Thiruvananthapuram,Electronics,Gadget,BrandD,Prepaid,Size Issue,1,4579.72,2025-07-08
+R1073,East,Assam,Guwahati,Clothing,Apparel,BrandB,Prepaid,Wrong Item,3,7698.0,2025-07-24
+R1074,North,Uttar Pradesh,Lucknow,Home & Kitchen,Utensil,BrandB,Prepaid,Changed Mind,3,5687.18,2025-07-06
+R1075,West,Maharashtra,Mumbai,Footwear,Shoes,BrandA,Prepaid,Wrong Item,1,762.33,2025-07-31
+R1076,West,Rajasthan,Jaipur,Books,Literature,BrandA,COD,Late Delivery,3,5326.63,2025-07-08
+R1077,North,Punjab,Amritsar,Clothing,Apparel,BrandA,COD,Changed Mind,1,2237.16,2025-07-05
+R1078,North,Delhi,New Delhi,Electronics,Gadget,BrandD,Prepaid,Late Delivery,2,7233.43,2025-07-19
+R1079,North,Uttar Pradesh,Kanpur,Footwear,Shoes,BrandA,COD,Size Issue,1,7348.65,2025-07-29
+R1080,North,Uttar Pradesh,Lucknow,Books,Literature,BrandB,COD,Late Delivery,2,5890.6,2025-07-10
+R1081,East,West Bengal,Kolkata,Home & Kitchen,Utensil,BrandD,Prepaid,Defective,2,4351.08,2025-07-13
+R1082,South,Karnataka,Mysore,Footwear,Shoes,BrandA,COD,Late Delivery,1,3388.31,2025-07-05
+R1083,East,Odisha,Bhubaneswar,Clothing,Apparel,BrandA,COD,Other,3,3978.27,2025-07-25
+R1084,South,Tamil Nadu,Chennai,Books,Literature,BrandA,Prepaid,Changed Mind,2,1608.25,2025-07-17
+R1085,East,Odisha,Bhubaneswar,Electronics,Gadget,BrandD,Prepaid,Size Issue,1,490.81,2025-07-04
+R1086,South,Kerala,Thiruvananthapuram,Footwear,Shoes,BrandD,COD,Late Delivery,1,3299.06,2025-07-06
+R1087,West,Gujarat,Ahmedabad,Electronics,Gadget,BrandC,COD,Late Delivery,3,5774.61,2025-07-06
+R1088,East,Assam,Guwahati,Electronics,Gadget,BrandC,Prepaid,Defective,2,1602.96,2025-07-11
+R1089,North,Uttar Pradesh,Lucknow,Books,Literature,BrandA,COD,Late Delivery,3,4329.1,2025-07-06
+R1090,East,Odisha,Bhubaneswar,Electronics,Gadget,BrandC,Prepaid,Late Delivery,1,4924.41,2025-07-08
+R1091,North,Punjab,Amritsar,Books,Literature,BrandD,Prepaid,Changed Mind,3,6970.77,2025-07-10
+R1092,East,Odisha,Bhubaneswar,Electronics,Gadget,BrandA,COD,Other,2,2422.54,2025-07-12
+R1093,South,Kerala,Kochi,Books,Literature,BrandC,Prepaid,Other,3,7992.95,2025-07-10
+R1094,East,Assam,Guwahati,Home & Kitchen,Utensil,BrandA,COD,Defective,3,1678.35,2025-07-07
+R1095,West,Rajasthan,Udaipur,Home & Kitchen,Utensil,BrandA,Prepaid,Late Delivery,1,5592.04,2025-07-30
+R1096,North,Uttar Pradesh,Kanpur,Electronics,Gadget,BrandC,Prepaid,Size Issue,3,3973.72,2025-07-06
+R1097,South,Tamil Nadu,Coimbatore,Books,Literature,BrandC,Prepaid,Size Issue,2,6246.71,2025-07-11
+R1098,South,Kerala,Thiruvananthapuram,Books,Literature,BrandB,Prepaid,Wrong Item,3,5603.29,2025-07-09
+R1099,East,Assam,Guwahati,Books,Literature,BrandB,Prepaid,Defective,3,3648.43,2025-07-11
+R1100,West,Maharashtra,Mumbai,Electronics,Gadget,BrandC,COD,Late Delivery,3,5834.04,2025-07-22
+R1101,North,Delhi,New Delhi,Footwear,Shoes,BrandC,COD,Size Issue,3,6944.14,2025-07-05
+R1102,South,Karnataka,Bangalore,Footwear,Shoes,BrandC,Prepaid,Changed Mind,1,5520.96,2025-07-06
+R1103,North,Punjab,Amritsar,Home & Kitchen,Utensil,BrandB,COD,Other,1,2991.27,2025-07-09
+R1104,East,West Bengal,Howrah,Electronics,Gadget,BrandD,Prepaid,Other,3,6931.8,2025-07-08
+R1105,East,Assam,Guwahati,Books,Literature,BrandB,Prepaid,Other,3,2477.31,2025-07-31
+R1106,West,Maharashtra,Pune,Electronics,Gadget,BrandC,COD,Late Delivery,3,3544.7,2025-07-02
+R1107,West,Maharashtra,Nagpur,Home & Kitchen,Utensil,BrandB,COD,Changed Mind,1,4820.77,2025-07-10
+R1108,West,Rajasthan,Udaipur,Home & Kitchen,Utensil,BrandD,Prepaid,Defective,3,2512.55,2025-07-27
+R1109,North,Delhi,New Delhi,Electronics,Gadget,BrandA,COD,Late Delivery,1,4431.98,2025-07-29
+R1110,South,Kerala,Thiruvananthapuram,Electronics,Gadget,BrandA,COD,Defective,3,5127.87,2025-07-31
+R1111,South,Tamil Nadu,Coimbatore,Clothing,Apparel,BrandD,COD,Other,1,475.89,2025-07-29
+R1112,East,Assam,Guwahati,Books,Literature,BrandC,Prepaid,Changed Mind,1,5738.28,2025-07-17
+R1113,West,Gujarat,Surat,Footwear,Shoes,BrandA,COD,Defective,2,5053.84,2025-07-10
+R1114,West,Rajasthan,Udaipur,Clothing,Apparel,BrandC,COD,Defective,2,1055.67,2025-07-30
+R1115,East,Assam,Guwahati,Clothing,Apparel,BrandC,Prepaid,Changed Mind,3,797.12,2025-07-07
+R1116,North,Punjab,Amritsar,Electronics,Gadget,BrandC,Prepaid,Size Issue,3,2404.71,2025-07-20
+R1117,North,Punjab,Ludhiana,Electronics,Gadget,BrandB,Prepaid,Wrong Item,2,7705.5,2025-07-04
+R1118,East,Odisha,Bhubaneswar,Books,Literature,BrandD,Prepaid,Changed Mind,3,1626.03,2025-07-20
+R1119,East,Odisha,Bhubaneswar,Footwear,Shoes,BrandA,Prepaid,Changed Mind,1,3462.83,2025-07-15
+R1120,South,Tamil Nadu,Chennai,Books,Literature,BrandB,COD,Other,3,2898.8,2025-07-09
+R1121,South,Tamil Nadu,Chennai,Footwear,Shoes,BrandD,COD,Other,1,4560.07,2025-07-10
+R1122,East,West Bengal,Kolkata,Home & Kitchen,Utensil,BrandC,COD,Size Issue,3,7233.16,2025-07-09
+R1123,East,Odisha,Bhubaneswar,Footwear,Shoes,BrandD,COD,Changed Mind,3,7884.22,2025-07-26
+R1124,West,Gujarat,Surat,Electronics,Gadget,BrandD,Prepaid,Other,2,4529.08,2025-07-03
+R1125,South,Tamil Nadu,Coimbatore,Footwear,Shoes,BrandD,Prepaid,Size Issue,2,5113.18,2025-07-07
+R1126,South,Kerala,Thiruvananthapuram,Footwear,Shoes,BrandD,COD,Other,2,5053.7,2025-07-17
+R1127,North,Uttar Pradesh,Kanpur,Books,Literature,BrandC,Prepaid,Late Delivery,2,2855.7,2025-07-18
+R1128,West,Gujarat,Surat,Electronics,Gadget,BrandA,Prepaid,Late Delivery,3,3806.59,2025-07-28
+R1129,West,Gujarat,Surat,Electronics,Gadget,BrandB,COD,Other,3,4246.25,2025-07-30
+R1130,East,West Bengal,Howrah,Electronics,Gadget,BrandB,COD,Wrong Item,3,6097.1,2025-07-08
+R1131,North,Uttar Pradesh,Kanpur,Footwear,Shoes,BrandD,COD,Other,1,5363.3,2025-07-26
+R1132,West,Rajasthan,Udaipur,Electronics,Gadget,BrandA,COD,Late Delivery,1,1569.7,2025-07-02
+R1133,South,Karnataka,Mysore,Electronics,Gadget,BrandB,Prepaid,Defective,2,6810.89,2025-07-11
+R1134,West,Maharashtra,Nagpur,Clothing,Apparel,BrandC,Prepaid,Defective,3,843.31,2025-07-25
+R1135,East,West Bengal,Howrah,Home & Kitchen,Utensil,BrandB,COD,Size Issue,2,1627.41,2025-07-04
+R1136,South,Tamil Nadu,Chennai,Clothing,Apparel,BrandA,Prepaid,Wrong Item,2,5113.23,2025-07-04
+R1137,South,Karnataka,Bangalore,Home & Kitchen,Utensil,BrandB,COD,Other,2,3354.11,2025-07-12
+R1138,East,West Bengal,Kolkata,Clothing,Apparel,BrandC,COD,Defective,1,5669.64,2025-07-18
+R1139,West,Rajasthan,Jaipur,Books,Literature,BrandC,COD,Changed Mind,1,4923.7,2025-07-09
+R1140,West,Gujarat,Ahmedabad,Electronics,Gadget,BrandC,COD,Late Delivery,3,4721.34,2025-07-26
+R1141,West,Maharashtra,Mumbai,Books,Literature,BrandD,Prepaid,Late Delivery,1,3581.53,2025-07-14
+R1142,South,Karnataka,Bangalore,Clothing,Apparel,BrandD,Prepaid,Wrong Item,2,6833.12,2025-07-25
+R1143,East,Assam,Guwahati,Electronics,Gadget,BrandA,Prepaid,Size Issue,1,3030.66,2025-07-16
+R1144,North,Delhi,New Delhi,Books,Literature,BrandB,COD,Changed Mind,2,5464.52,2025-07-25
+R1145,West,Gujarat,Surat,Clothing,Apparel,BrandC,Prepaid,Wrong Item,2,4521.04,2025-07-16
+R1146,East,Odisha,Bhubaneswar,Clothing,Apparel,BrandD,COD,Late Delivery,2,7304.69,2025-07-22
+R1147,South,Kerala,Kochi,Electronics,Gadget,BrandB,COD,Wrong Item,1,3742.46,2025-07-11
+R1148,East,West Bengal,Howrah,Footwear,Shoes,BrandA,Prepaid,Late Delivery,2,2189.58,2025-07-19
+R1149,East,Odisha,Bhubaneswar,Clothing,Apparel,BrandA,Prepaid,Wrong Item,2,4517.6,2025-07-02
+R1150,North,Delhi,New Delhi,Books,Literature,BrandA,COD,Wrong Item,2,6274.97,2025-07-04
+R1151,East,Odisha,Bhubaneswar,Clothing,Apparel,BrandC,Prepaid,Late Delivery,1,4665.76,2025-07-07
+R1152,North,Punjab,Amritsar,Books,Literature,BrandB,COD,Other,1,4120.37,2025-07-20
+R1153,East,Odisha,Bhubaneswar,Books,Literature,BrandA,COD,Defective,2,4574.79,2025-07-27
+R1154,North,Punjab,Amritsar,Home & Kitchen,Utensil,BrandD,COD,Changed Mind,2,6276.63,2025-07-04
+R1155,West,Gujarat,Surat,Home & Kitchen,Utensil,BrandD,Prepaid,Size Issue,2,4301.97,2025-07-20
+R1156,South,Karnataka,Mysore,Clothing,Apparel,BrandD,Prepaid,Changed Mind,2,5554.04,2025-07-04
+R1157,South,Karnataka,Mysore,Electronics,Gadget,BrandD,Prepaid,Defective,2,4233.01,2025-07-28
+R1158,West,Maharashtra,Pune,Footwear,Shoes,BrandC,COD,Defective,1,316.59,2025-07-20
+R1159,South,Tamil Nadu,Chennai,Footwear,Shoes,BrandA,COD,Other,3,2333.16,2025-07-29
+R1160,North,Punjab,Ludhiana,Books,Literature,BrandA,COD,Size Issue,3,3022.64,2025-07-14
+R1161,East,Assam,Guwahati,Books,Literature,BrandB,COD,Other,3,7293.7,2025-07-19
+R1162,East,West Bengal,Kolkata,Footwear,Shoes,BrandA,Prepaid,Wrong Item,2,2500.94,2025-07-06
+R1163,East,Odisha,Bhubaneswar,Clothing,Apparel,BrandB,COD,Other,1,970.53,2025-07-02
+R1164,North,Punjab,Ludhiana,Home & Kitchen,Utensil,BrandC,COD,Wrong Item,2,4382.35,2025-07-19
+R1165,North,Uttar Pradesh,Lucknow,Home & Kitchen,Utensil,BrandD,Prepaid,Late Delivery,2,6806.39,2025-07-09
+R1166,West,Rajasthan,Udaipur,Books,Literature,BrandB,Prepaid,Changed Mind,3,6312.0,2025-07-26
+R1167,South,Tamil Nadu,Chennai,Clothing,Apparel,BrandB,Prepaid,Wrong Item,1,4043.22,2025-07-23
+R1168,South,Tamil Nadu,Coimbatore,Home & Kitchen,Utensil,BrandB,COD,Late Delivery,1,2534.81,2025-07-01
+R1169,North,Punjab,Ludhiana,Electronics,Gadget,BrandB,COD,Late Delivery,3,433.96,2025-07-11
+R1170,East,Assam,Guwahati,Footwear,Shoes,BrandA,COD,Other,3,2371.88,2025-07-10
+R1171,North,Uttar Pradesh,Kanpur,Home & Kitchen,Utensil,BrandB,Prepaid,Wrong Item,2,6664.24,2025-07-31
+R1172,West,Gujarat,Ahmedabad,Books,Literature,BrandC,COD,Size Issue,1,7342.27,2025-07-31
+R1173,East,Odisha,Bhubaneswar,Home & Kitchen,Utensil,BrandC,Prepaid,Other,3,5721.47,2025-07-27
+R1174,South,Karnataka,Mysore,Home & Kitchen,Utensil,BrandC,COD,Defective,1,1552.6,2025-07-18
+R1175,East,Assam,Guwahati,Home & Kitchen,Utensil,BrandA,COD,Other,1,3150.99,2025-07-01
+R1176,South,Tamil Nadu,Chennai,Clothing,Apparel,BrandB,Prepaid,Changed Mind,3,1429.82,2025-07-29
+R1177,East,Assam,Guwahati,Footwear,Shoes,BrandA,COD,Changed Mind,1,6268.53,2025-07-24
+R1178,North,Delhi,New Delhi,Home & Kitchen,Utensil,BrandC,Prepaid,Late Delivery,1,4530.11,2025-07-02
+R1179,North,Uttar Pradesh,Lucknow,Footwear,Shoes,BrandA,COD,Changed Mind,2,1964.73,2025-07-03
+R1180,West,Gujarat,Ahmedabad,Footwear,Shoes,BrandC,Prepaid,Wrong Item,3,3701.38,2025-07-27
+R1181,South,Kerala,Thiruvananthapuram,Books,Literature,BrandC,Prepaid,Late Delivery,2,3464.3,2025-07-11
+R1182,North,Uttar Pradesh,Lucknow,Home & Kitchen,Utensil,BrandC,Prepaid,Size Issue,2,6594.11,2025-07-11
+R1183,East,West Bengal,Howrah,Clothing,Apparel,BrandC,Prepaid,Defective,2,4553.91,2025-07-07
+R1184,East,Odisha,Bhubaneswar,Footwear,Shoes,BrandB,COD,Changed Mind,1,1267.32,2025-07-31
+R1185,North,Uttar Pradesh,Lucknow,Footwear,Shoes,BrandB,Prepaid,Late Delivery,1,4134.65,2025-07-14
+R1186,West,Maharashtra,Mumbai,Electronics,Gadget,BrandC,COD,Defective,3,3502.5,2025-07-09
+R1187,North,Delhi,New Delhi,Home & Kitchen,Utensil,BrandA,Prepaid,Defective,1,2161.47,2025-07-23
+R1188,East,Assam,Guwahati,Footwear,Shoes,BrandA,COD,Other,2,2805.02,2025-07-10
+R1189,South,Tamil Nadu,Chennai,Footwear,Shoes,BrandA,COD,Size Issue,1,1329.49,2025-07-17
+R1190,North,Delhi,New Delhi,Home & Kitchen,Utensil,BrandB,Prepaid,Defective,2,3820.19,2025-07-14
+R1191,South,Tamil Nadu,Chennai,Books,Literature,BrandB,Prepaid,Size Issue,2,2863.94,2025-07-28
+R1192,North,Punjab,Amritsar,Clothing,Apparel,BrandD,Prepaid,Wrong Item,1,7073.03,2025-07-18
+R1193,West,Rajasthan,Jaipur,Clothing,Apparel,BrandC,Prepaid,Other,3,5481.51,2025-07-20
+R1194,South,Kerala,Kochi,Clothing,Apparel,BrandB,COD,Changed Mind,3,1111.3,2025-07-06
+R1195,South,Kerala,Kochi,Home & Kitchen,Utensil,BrandC,COD,Late Delivery,2,6151.81,2025-07-07
+R1196,South,Tamil Nadu,Coimbatore,Clothing,Apparel,BrandC,COD,Defective,1,7097.81,2025-07-14
+R1197,South,Kerala,Kochi,Footwear,Shoes,BrandC,COD,Wrong Item,1,1975.5,2025-07-13
+R1198,North,Uttar Pradesh,Kanpur,Clothing,Apparel,BrandC,Prepaid,Changed Mind,2,2863.77,2025-07-23
+R1199,South,Karnataka,Bangalore,Books,Literature,BrandC,COD,Wrong Item,2,7003.57,2025-07-17
+R1200,South,Karnataka,Mysore,Electronics,Gadget,BrandD,Prepaid,Late Delivery,1,762.21,2025-07-04
+R1201,South,Tamil Nadu,Chennai,Clothing,Apparel,BrandB,COD,Changed Mind,1,4022.4,2025-07-21
+R1202,North,Uttar Pradesh,Lucknow,Books,Literature,BrandC,Prepaid,Size Issue,2,5998.26,2025-07-27
+R1203,South,Tamil Nadu,Coimbatore,Footwear,Shoes,BrandA,Prepaid,Size Issue,3,6904.62,2025-07-15
+R1204,East,Assam,Guwahati,Clothing,Apparel,BrandD,COD,Wrong Item,3,3183.86,2025-07-11
+R1205,North,Uttar Pradesh,Kanpur,Electronics,Gadget,BrandA,COD,Changed Mind,1,959.36,2025-07-30
+R1206,West,Rajasthan,Udaipur,Electronics,Gadget,BrandB,Prepaid,Size Issue,1,4676.58,2025-07-16
+R1207,North,Punjab,Ludhiana,Footwear,Shoes,BrandB,Prepaid,Size Issue,1,6277.24,2025-07-02
+R1208,West,Maharashtra,Mumbai,Electronics,Gadget,BrandD,Prepaid,Defective,1,3806.19,2025-07-01
+R1209,East,Assam,Guwahati,Electronics,Gadget,BrandD,COD,Size Issue,1,6669.35,2025-07-31
+R1210,West,Maharashtra,Mumbai,Clothing,Apparel,BrandB,COD,Other,3,4279.48,2025-07-31
+R1211,West,Rajasthan,Udaipur,Books,Literature,BrandA,Prepaid,Wrong Item,1,2227.64,2025-07-14
+R1212,West,Maharashtra,Mumbai,Footwear,Shoes,BrandD,Prepaid,Late Delivery,1,2077.57,2025-07-20
+R1213,East,Odisha,Bhubaneswar,Books,Literature,BrandC,Prepaid,Defective,1,7316.11,2025-07-12
+R1214,West,Gujarat,Surat,Electronics,Gadget,BrandA,COD,Other,1,7059.11,2025-07-12
+R1215,South,Kerala,Thiruvananthapuram,Books,Literature,BrandB,Prepaid,Defective,1,5256.94,2025-07-18
+R1216,North,Uttar Pradesh,Kanpur,Electronics,Gadget,BrandD,Prepaid,Size Issue,1,1961.11,2025-07-24
+R1217,West,Gujarat,Surat,Home & Kitchen,Utensil,BrandA,Prepaid,Wrong Item,2,6932.85,2025-07-03
+R1218,West,Gujarat,Ahmedabad,Footwear,Shoes,BrandD,COD,Other,1,6280.61,2025-07-19
+R1219,East,Assam,Guwahati,Books,Literature,BrandC,COD,Defective,1,6032.96,2025-07-27
+R1220,East,Odisha,Bhubaneswar,Books,Literature,BrandB,COD,Defective,2,6986.86,2025-07-31
+R1221,South,Karnataka,Mysore,Clothing,Apparel,BrandC,Prepaid,Defective,1,7571.9,2025-07-22
+R1222,North,Uttar Pradesh,Lucknow,Clothing,Apparel,BrandD,COD,Defective,1,690.35,2025-07-13
+R1223,West,Gujarat,Surat,Home & Kitchen,Utensil,BrandC,COD,Defective,2,7857.8,2025-07-01
+R1224,East,Assam,Guwahati,Footwear,Shoes,BrandC,COD,Defective,2,6893.44,2025-07-13
+R1225,East,Odisha,Bhubaneswar,Footwear,Shoes,BrandB,Prepaid,Defective,2,3516.23,2025-07-03
+R1226,South,Kerala,Thiruvananthapuram,Clothing,Apparel,BrandC,COD,Other,2,2920.76,2025-07-04
+R1227,North,Delhi,New Delhi,Electronics,Gadget,BrandA,COD,Other,2,4237.14,2025-07-31
+R1228,East,Odisha,Bhubaneswar,Clothing,Apparel,BrandA,Prepaid,Defective,3,2590.57,2025-07-27
+R1229,North,Uttar Pradesh,Lucknow,Books,Literature,BrandA,COD,Changed Mind,3,7588.55,2025-07-24
+R1230,West,Maharashtra,Mumbai,Footwear,Shoes,BrandC,COD,Size Issue,2,4374.0,2025-07-31
+R1231,North,Punjab,Amritsar,Footwear,Shoes,BrandA,COD,Changed Mind,3,2791.73,2025-07-19
+R1232,West,Rajasthan,Udaipur,Books,Literature,BrandC,Prepaid,Changed Mind,1,7238.59,2025-07-20
+R1233,West,Gujarat,Surat,Footwear,Shoes,BrandD,Prepaid,Changed Mind,1,940.0,2025-07-24
+R1234,South,Kerala,Thiruvananthapuram,Footwear,Shoes,BrandC,Prepaid,Wrong Item,3,5093.82,2025-07-24
+R1235,North,Delhi,New Delhi,Electronics,Gadget,BrandB,Prepaid,Defective,1,4085.11,2025-07-07
+R1236,North,Delhi,New Delhi,Home & Kitchen,Utensil,BrandD,COD,Size Issue,1,2674.39,2025-07-31
+R1237,South,Kerala,Thiruvananthapuram,Books,Literature,BrandB,COD,Changed Mind,1,1094.91,2025-07-17
+R1238,North,Uttar Pradesh,Lucknow,Clothing,Apparel,BrandA,Prepaid,Size Issue,2,3872.08,2025-07-18
+R1239,North,Uttar Pradesh,Lucknow,Home & Kitchen,Utensil,BrandC,Prepaid,Changed Mind,1,6377.28,2025-07-31
+R1240,West,Rajasthan,Jaipur,Books,Literature,BrandA,COD,Size Issue,3,7410.95,2025-07-12
+R1241,North,Punjab,Ludhiana,Books,Literature,BrandC,COD,Changed Mind,3,4019.9,2025-07-13
+R1242,South,Karnataka,Mysore,Electronics,Gadget,BrandB,COD,Changed Mind,2,4794.79,2025-07-29
+R1243,East,West Bengal,Kolkata,Books,Literature,BrandB,COD,Other,1,6001.21,2025-07-08
+R1244,West,Rajasthan,Udaipur,Home & Kitchen,Utensil,BrandB,COD,Other,1,2142.72,2025-07-17
+R1245,South,Karnataka,Bangalore,Books,Literature,BrandA,Prepaid,Wrong Item,1,5170.4,2025-07-03
+R1246,North,Punjab,Amritsar,Footwear,Shoes,BrandA,COD,Size Issue,2,5960.42,2025-07-16
+R1247,North,Punjab,Amritsar,Electronics,Gadget,BrandB,Prepaid,Size Issue,2,1380.9,2025-07-13
+R1248,South,Karnataka,Mysore,Clothing,Apparel,BrandC,Prepaid,Late Delivery,1,6972.98,2025-07-07
+R1249,South,Kerala,Thiruvananthapuram,Home & Kitchen,Utensil,BrandA,Prepaid,Defective,2,5766.97,2025-07-31
+R1250,North,Uttar Pradesh,Kanpur,Books,Literature,BrandB,COD,Changed Mind,3,1021.68,2025-07-22
+R1251,East,Odisha,Bhubaneswar,Electronics,Gadget,BrandD,COD,Size Issue,2,5387.43,2025-07-21
+R1252,West,Rajasthan,Jaipur,Home & Kitchen,Utensil,BrandA,Prepaid,Wrong Item,3,4396.12,2025-07-10
+R1253,West,Gujarat,Surat,Clothing,Apparel,BrandD,Prepaid,Defective,3,7683.75,2025-07-18
+R1254,East,West Bengal,Kolkata,Clothing,Apparel,BrandC,COD,Size Issue,3,3656.47,2025-07-06
+R1255,North,Punjab,Ludhiana,Electronics,Gadget,BrandD,Prepaid,Wrong Item,3,1593.04,2025-07-06
+R1256,North,Delhi,New Delhi,Clothing,Apparel,BrandB,COD,Changed Mind,3,3084.88,2025-07-01
+R1257,North,Punjab,Ludhiana,Books,Literature,BrandD,COD,Wrong Item,1,474.72,2025-07-02
+R1258,South,Karnataka,Bangalore,Clothing,Apparel,BrandC,Prepaid,Size Issue,1,4512.39,2025-07-01
+R1259,South,Kerala,Kochi,Electronics,Gadget,BrandC,Prepaid,Other,1,4071.03,2025-07-24
+R1260,East,West Bengal,Howrah,Books,Literature,BrandA,Prepaid,Size Issue,3,2582.89,2025-07-01
+R1261,East,West Bengal,Howrah,Electronics,Gadget,BrandA,COD,Other,1,6321.68,2025-07-20
+R1262,West,Rajasthan,Jaipur,Home & Kitchen,Utensil,BrandD,Prepaid,Other,3,5462.09,2025-07-29
+R1263,North,Uttar Pradesh,Kanpur,Home & Kitchen,Utensil,BrandD,Prepaid,Defective,2,4180.89,2025-07-13
+R1264,North,Delhi,New Delhi,Books,Literature,BrandA,COD,Other,1,1392.91,2025-07-20
+R1265,North,Delhi,New Delhi,Electronics,Gadget,BrandB,Prepaid,Defective,2,5049.33,2025-07-10
+R1266,South,Kerala,Kochi,Books,Literature,BrandB,COD,Changed Mind,2,6288.31,2025-07-28
+R1267,North,Uttar Pradesh,Kanpur,Footwear,Shoes,BrandA,COD,Changed Mind,3,1730.31,2025-07-01
+R1268,North,Uttar Pradesh,Lucknow,Electronics,Gadget,BrandC,COD,Size Issue,2,3642.86,2025-07-15
+R1269,West,Rajasthan,Udaipur,Electronics,Gadget,BrandB,Prepaid,Changed Mind,3,1339.53,2025-07-30
+R1270,East,Assam,Guwahati,Footwear,Shoes,BrandD,COD,Wrong Item,3,2090.6,2025-07-04
+R1271,South,Kerala,Thiruvananthapuram,Footwear,Shoes,BrandB,Prepaid,Changed Mind,2,2389.57,2025-07-31
+R1272,North,Punjab,Amritsar,Clothing,Apparel,BrandC,Prepaid,Late Delivery,3,6851.91,2025-07-12
+R1273,East,West Bengal,Kolkata,Home & Kitchen,Utensil,BrandA,Prepaid,Size Issue,2,2346.53,2025-07-24
+R1274,West,Maharashtra,Nagpur,Clothing,Apparel,BrandD,COD,Changed Mind,2,951.71,2025-07-11
+R1275,North,Uttar Pradesh,Lucknow,Books,Literature,BrandA,COD,Other,3,4359.77,2025-07-22
+R1276,West,Rajasthan,Jaipur,Books,Literature,BrandB,COD,Wrong Item,2,4973.5,2025-07-20
+R1277,West,Maharashtra,Pune,Clothing,Apparel,BrandC,Prepaid,Size Issue,2,1761.66,2025-07-17
+R1278,East,Assam,Guwahati,Clothing,Apparel,BrandD,Prepaid,Changed Mind,2,5101.72,2025-07-30
+R1279,South,Karnataka,Mysore,Books,Literature,BrandA,COD,Late Delivery,1,4609.51,2025-07-25
+R1280,North,Uttar Pradesh,Lucknow,Clothing,Apparel,BrandA,Prepaid,Size Issue,2,2781.9,2025-07-26
+R1281,North,Delhi,New Delhi,Electronics,Gadget,BrandC,COD,Size Issue,1,4489.29,2025-07-17
+R1282,East,Assam,Guwahati,Home & Kitchen,Utensil,BrandD,Prepaid,Changed Mind,1,7750.06,2025-07-15
+R1283,West,Rajasthan,Jaipur,Electronics,Gadget,BrandA,Prepaid,Changed Mind,3,3900.37,2025-07-14
+R1284,South,Tamil Nadu,Coimbatore,Home & Kitchen,Utensil,BrandD,Prepaid,Other,3,3064.03,2025-07-13
+R1285,West,Maharashtra,Mumbai,Footwear,Shoes,BrandD,COD,Size Issue,1,2220.16,2025-07-08
+R1286,West,Maharashtra,Mumbai,Books,Literature,BrandD,Prepaid,Changed Mind,3,4895.51,2025-07-12
+R1287,North,Delhi,New Delhi,Footwear,Shoes,BrandC,Prepaid,Wrong Item,1,4948.36,2025-07-16
+R1288,West,Gujarat,Surat,Home & Kitchen,Utensil,BrandD,Prepaid,Wrong Item,2,2571.29,2025-07-09
+R1289,North,Uttar Pradesh,Lucknow,Books,Literature,BrandB,COD,Other,1,745.87,2025-07-22
+R1290,East,Assam,Guwahati,Electronics,Gadget,BrandB,COD,Defective,3,6525.41,2025-07-10
+R1291,North,Uttar Pradesh,Lucknow,Footwear,Shoes,BrandA,COD,Changed Mind,2,7206.23,2025-07-08
+R1292,West,Maharashtra,Nagpur,Books,Literature,BrandD,COD,Size Issue,1,2400.7,2025-07-03
+R1293,East,Odisha,Bhubaneswar,Books,Literature,BrandC,Prepaid,Late Delivery,2,620.59,2025-07-05
+R1294,West,Rajasthan,Jaipur,Electronics,Gadget,BrandA,COD,Defective,3,1765.02,2025-07-04
+R1295,West,Rajasthan,Udaipur,Books,Literature,BrandC,Prepaid,Late Delivery,1,3930.3,2025-07-31
+R1296,East,Odisha,Bhubaneswar,Books,Literature,BrandC,Prepaid,Late Delivery,1,475.84,2025-07-21
+R1297,North,Punjab,Ludhiana,Electronics,Gadget,BrandA,COD,Defective,2,3061.28,2025-07-11
+R1298,West,Maharashtra,Mumbai,Books,Literature,BrandC,COD,Other,1,7203.65,2025-07-16
+R1299,East,West Bengal,Howrah,Footwear,Shoes,BrandB,COD,Changed Mind,1,2844.78,2025-07-13
+R1300,North,Uttar Pradesh,Kanpur,Footwear,Shoes,BrandD,COD,Defective,1,3021.79,2025-07-12
